@@ -89,6 +89,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	roles needed for the project are allocated
 -	testing environment is up and running
 -	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testin
+  
 #### Exit criteria:
 
 -	all test cases have been executed 
@@ -107,7 +108,14 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	stress conditions might impact the web application
 -	new browser might not be supported
 
- [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+ ## 2.2 Test analysis
+- The testing process will be done based on the requirements for features:
+
+- We plan...
+
+## 2.3 Test design
+- 
+
 
 ### 3.2 Test conditions
   
