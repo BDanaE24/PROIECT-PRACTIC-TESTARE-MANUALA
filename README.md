@@ -1,24 +1,7 @@
 # PROIECT-PRACTIC-TESTARE-MANUALA
 
-Meet IT Factory: https://docs.google.com/spreadsheets/d/1WGEVZtJCc_w8G6r08EFOHYWD7F8oclrgSkZSRP3bDgI/edit?pli=1#gid=757328659
-
-00:24:05.776,00:24:08.776
-Meet IT Factory: https://github.com/
-
-00:49:31.686,00:49:34.686
-Meet IT Factory: https://www.markdownguide.org/basic-syntax/
-
-00:53:07.424,00:53:10.424
-Meet IT Factory: https://docs.google.com/document/d/1KKlvislCi5Vgj1R7c4y7d2M2_ogHmC1C/edit
-
-00:54:18.682,00:54:21.682
-Meet IT Factory: | Normal  | key  |
-|---|---|
-| Normal Key | Value1 |
-| Normal Key | Value2 |
-
-01:00:16.015,01:00:19.015
-Ioana Gornateanu: | Date  | Description  | Author | Comments | 
+|---|---|---|---|
+| Date  | Description  | Author | Comments | 
 |---|---|---|---|
 | 05.05.2023 | Test Plan for version 0.55 | Matei Oltean|   |
 | 07.07.2023 | Test Plan for version 1.0 | Adelina Pop | Added more details for Test Implementation |
