@@ -1,18 +1,12 @@
 # PROIECT-PRACTIC-TESTARE-MANUALA
 
+
+| Date  | Description  | Author | Comments | 
 |---|---|---|---|
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
 | 05.05.2023 | Test Plan for version 0.55 | Matei Oltean|   |
 | 07.07.2023 | Test Plan for version 1.0 | Adelina Pop | Added more details for Test Implementation |
-
-01:09:49.177,01:09:52.177
-Meet IT Factory: -------
-
-01:09:50.368,01:09:53.368
-Meet IT Factory: 1. Introduction
-        1. Project Objective 
-        2. IFunctionalities in scope
 
 1. Introduction
         1. Project Objective 
