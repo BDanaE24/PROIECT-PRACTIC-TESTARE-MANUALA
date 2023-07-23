@@ -7,6 +7,10 @@
 
 # 1. Introduction
 
+        1.2 Project objective
+
+        1.2. Functionalities in scope
+
     1.1 Project objective
 
                     1.2 Functionalities in scope
