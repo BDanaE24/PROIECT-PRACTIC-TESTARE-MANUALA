@@ -161,6 +161,10 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 3.3 Test condition
 
--
+- The test cases with steps could be found here: *vom adauga link catre document cu test cases create pe github. Test cases vor fi exportate in jira
+
+## 3.4 Dayly/Weekly/Bi-weekly test summary report
+
+
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
