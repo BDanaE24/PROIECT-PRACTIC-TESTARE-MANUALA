@@ -113,7 +113,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
  ## 2.2 Test analysis
 
-- The testing process will be done based on the requirements for features: ######Add funds, Withdraw funds, Send money
+- The testing process will be done based on the requirements for features: ###### Add funds, Withdraw funds, Send money
 - We plan on running a ful regresion test on the current version
 
 ## 2.3 Test design
