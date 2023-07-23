@@ -19,33 +19,33 @@
 
         2.2 Test Analysis
 
-          2.3 Test design
+        2.3 Test design
 
-          2.4 Test implementation
+        2.4 Test implementation
 
-          2.5 Test execution
+        2.5 Test execution
 
-          2.6 Test closure
+        2.6 Test closure
 
-          2.7 Test monitoring and control
+        2.7 Test monitoring and control
 
 # 3. Test deliverables
 
-          3.1 Test plan
+        3.1 Test plan
 
-          3.2 Test condition
+        3.2 Test condition
 
-          3.3 Test cases
+        3.3 Test cases
 
-          3.4 Daily test summary reports
+        3.4 Daily test summary reports
 
-          3.5 traceability matrix
+        3.5 traceability matrix
 
-          3.6 Test cases result
+        3.6 Test cases result
 
-          3.7 Bugs report
+        3.7 Bugs report
 
-          3.8 Test completion report
+        3.8 Test completion report
 
 # 1. Introduction
 
