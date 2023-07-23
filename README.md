@@ -7,15 +7,15 @@
 
 # 1. Introduction
 
-        1.2 Project objective
+        1.1 Project objective
 
         1.2. Functionalities in scope
 
-    1.1 Project objective
+            1.1 Project objective
 
-                    1.2 Functionalities in scope
+            1.2 Functionalities in scope
 
-                    1.3 Functionalities and tests out of scope
+            1.3 Functionalities and tests out of scope
 
 # 2. Test Process
 
