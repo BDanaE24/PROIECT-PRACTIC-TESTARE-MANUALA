@@ -112,7 +112,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	new browser might not be supported
 
  ## 2.2 Test analysis
- 
+
 - The testing process will be done based on the requirements for features:
 
 - We plan...
