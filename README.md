@@ -182,7 +182,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 **- link to test completion report (Test cases ran, hou many TC are passed and how many are failed)**
 
-* vom adauga screesshot cu test completion report din Jira la sfarsitul testarii (toate test case-urile au fost executate)*
+*vom adauga screesshot cu test completion report din Jira la sfarsitul testarii (toate test case-urile au fost executate)*
 
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
