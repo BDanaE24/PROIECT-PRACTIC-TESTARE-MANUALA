@@ -12,7 +12,6 @@
         1.2 Functionalities in scope
 
         1.3 Functionalities and tests out of scope
-
 # 2. Test Process
 
         2.1 Test Planning
@@ -28,7 +27,6 @@
         2.6 Test closure
 
         2.7 Test monitoring and control
-
 # 3. Test deliverables
 
         3.1 Test plan
