@@ -175,7 +175,14 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 - The test cases result could be found here: *vom adauga link catre document cu test cases executate pe github. Test cases result vor fi exportate din Jira.
 
-- 
+## 3.7 The bugs 
+- The bug reported could be found here: * vom adauga link catre document cu defectele raportate in Jira pt test Case-urile failed
+
+## 3.8 Test completion report
+
+**- link to test completion report (Test cases ran, hou many TC are passed and how many are failed)**
+
+* vom adauga screesshot cu test completion report din Jira la sfarsitul testarii (toate test case-urile au fost executate)
 
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
