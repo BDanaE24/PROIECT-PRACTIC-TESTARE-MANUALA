@@ -154,9 +154,13 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing prosess, the risks associated with the plan, the resources and schedule required to complete testing.
 
 ## 3.2 Test conditions
-  
--  we will use test environment
+
+- we will use test environment
 - testing using new accounts and older account is necessary
-- The following test conditions could be found here: [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+- The following test conditions could be found here:* vom adauga link catre document cu test cases create si incarcate pe Github. Test cases vor fi exportate din Jira [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+
+## 3.3 Test condition
+
+-
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
