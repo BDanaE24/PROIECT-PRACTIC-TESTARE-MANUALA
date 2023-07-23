@@ -138,7 +138,13 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 2.6 Test closure
 
-- 
+- At least 90% of tests are passed
+- No Critical issues have Open status
+- Exploratory testing have been performed
+
+## 2.7 Test monitoring and control
+
+- Various periodic reports (daily/weskly/bi-weekly) will be generated to reflect the current status of the testing process.
 
 
 ### 3.2 Test conditions
