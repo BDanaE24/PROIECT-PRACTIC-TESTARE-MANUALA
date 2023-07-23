@@ -165,7 +165,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 3.4 Dayly/Weekly/Bi-weekly test summary report
 
-**- link to daily test summary report (number of tests ran today, % of them failed, passed, re-tested, etc)* vom adauga link catre screeshot cu test summary report incarcat pe 
+**- link to daily test summary report (number of tests ran today, % of them failed, passed, re-tested, etc)* vom adauga link catre screeshot cu test summary report incarcat pe github SUA incarcam imaginea cu raportul
 
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
