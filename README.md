@@ -50,7 +50,7 @@
 # 1. Introduction
 
 The Guru99 Bank project aims to provide a net banking facility to its customers.
-This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+This release will have limited features. Over a period of time, new and new functionalities will be added to the site.
 
 ## 1.1 Project objectives
 
