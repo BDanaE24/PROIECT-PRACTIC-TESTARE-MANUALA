@@ -146,10 +146,12 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 - Various periodic reports (daily/weskly/bi-weekly) will be generated to reflect the current status of the testing process.
 
-# Test deliverables
+# 3. Test deliverables
 
-## 3.1 Test plan
+## 3.1 Test plan - link to test plan
 
+- The Test Plan is designet to describe all the details of testing for yhe following features: Add funds, Withdraw funds, Send money from Guru99 application
+- 
 
 ## 3.2 Test conditions
   
