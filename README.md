@@ -119,7 +119,19 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 2.3 Test design
 
-          - 
+-          All the test cases are written and reviewed
+-          Funcional test cases winn be created in Zephyr Squad using Jira as Test Management tool
+-          GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+
+## 2.4 Test implementation
+
+-          all the data is available and reviewed (test data=email exanples, password examples, different type of currency, different types of credit cards)
+-          this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+-          Cycle summary was created and test cases wer added to the cycle summary
+-          Test enviromnment is up and running: https://demo.guru99.com/V4/index.php
+
+## 2.5 Test execution
+
 
 
 ### 3.2 Test conditions
