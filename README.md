@@ -48,14 +48,17 @@
           3.8 Test completion report
 
 #  1. Introduction
+
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
 ## 1.1 Project objectives
+
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, us
 
 ## 1.2 Functionalities in scope
+
 Here we should write all the functionalities that are included in the release.
 e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 
@@ -66,6 +69,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
  - Testing types used: functional testing, GUI testing
 
 ## 1.3 Functionalities tests out of scope
+
 - The features out of scope: Monthly funds report, Transactions of the account, Remaining funds, Security Improvements
 - Non-functional testing like stress, performance is beyond scope off this project.
 - No QA support for mobile applications developed. Only web applications will be tested.
@@ -108,12 +112,14 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	new browser might not be supported
 
  ## 2.2 Test analysis
+ 
 - The testing process will be done based on the requirements for features:
 
 - We plan...
 
 ## 2.3 Test design
-- 
+
+          - 
 
 
 ### 3.2 Test conditions
