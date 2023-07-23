@@ -146,8 +146,12 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 - Various periodic reports (daily/weskly/bi-weekly) will be generated to reflect the current status of the testing process.
 
+# Test deliverables
 
-### 3.2 Test conditions
+## 3.1 Test plan
+
+
+## 3.2 Test conditions
   
 -  we will use test environment
 - testing using new accounts and older account is necessary
