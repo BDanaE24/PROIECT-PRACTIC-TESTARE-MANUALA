@@ -132,6 +132,13 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 2.5 Test execution
 
+- The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
+- Test cases will be executed on the created Test Cycle Sumary
+- Bugs will be reported based on the failed tests
+
+## 2.6 Test closure
+
+- 
 
 
 ### 3.2 Test conditions
