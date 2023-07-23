@@ -143,6 +143,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - Exploratory testing have been performed
 
 ## 2.7 Test monitoring and control
+
 - Various periodic reports (daily/weskly/bi-weekly) will be generated to reflect the current status of the testing process.
 
 
