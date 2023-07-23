@@ -151,7 +151,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 ## 3.1 Test plan - link to test plan
 
 - The Test Plan is designet to describe all the details of testing for yhe following features: Add funds, Withdraw funds, Send money from Guru99 application
-- 
+- The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing prosess, the risks associated with the plan, the resources and schedule required to complete testing.
 
 ## 3.2 Test conditions
   
