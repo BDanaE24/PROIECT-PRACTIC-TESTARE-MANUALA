@@ -88,7 +88,6 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 |Role|Name|Tasks/Work|
 
 |---|---|---|
-
 |Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
 |Tester|Adelina Pop| will test: Sends money|
 
