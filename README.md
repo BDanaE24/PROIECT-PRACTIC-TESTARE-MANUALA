@@ -60,6 +60,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: https://demo.guru99.com/V4/index.php
 
 Application documentation:
+
 https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 
