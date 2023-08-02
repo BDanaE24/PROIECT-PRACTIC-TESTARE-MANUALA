@@ -148,7 +148,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 2.7 Test monitoring and control
 
-- Various periodic reports (daily/weskly/bi-weekly) will be generated to reflect the current status of the testing process.
+- Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process.
 
 # 3. Test deliverables
 
