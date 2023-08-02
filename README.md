@@ -55,7 +55,13 @@ This release will have limited features. Over a period of time, new and new func
 ## 1.1 Project objectives
 
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, us
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application.
+
+Application under test: https://demo.guru99.com/V4/index.php
+
+Application documentation:
+https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
+
 
 ## 1.2 Functionalities in scope
 
