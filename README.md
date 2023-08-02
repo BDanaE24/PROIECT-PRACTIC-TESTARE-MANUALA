@@ -71,8 +71,6 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - The features in scope for testing: Add funds, Withdraw funds, Send money
 - Testing types used: functional testing, GUI testing
 
-- The features in scope for testing: Add funds, Withdraw funds, Send money
-- Testing types used: functional testing, GUI testing
 
 ## 1.3 Functionalities tests out of scope
 
