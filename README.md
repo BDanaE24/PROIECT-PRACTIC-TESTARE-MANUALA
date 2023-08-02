@@ -52,7 +52,7 @@
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time, new and new functionalities will be added to the site.
 
-## 1.1 Project objectives
+## 1.1 Project objective
 
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application.
