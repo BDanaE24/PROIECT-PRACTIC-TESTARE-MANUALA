@@ -186,6 +186,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 3.9 Schedule
 
+
 **- we have 10 days of testing**
 
 **- we have 30 functional and GUI tests**
