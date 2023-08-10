@@ -89,7 +89,6 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 |---|---|---|
 |Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
 |Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
-|Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
 
 #### Entry criteria:
 
