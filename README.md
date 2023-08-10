@@ -5,7 +5,7 @@
 |Date|Description|Author|Comments|
 |---|---|---|---|
 |05.05.2023|Test Plan for version 0.55|Matei Oltean||
-|07.07.2023|Test plan for version 1.0|Adelina Pop|Added more detailsfor Test Implementation|
+| 07.07.2023 | Test plan for version 1.0 | Adelina Pop | Added more detailsfor Test Implementation |
 
 # 1. Introduction
 
