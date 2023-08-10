@@ -87,8 +87,8 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 
 |Role|Name|Tasks/Work|
 |---|---|---|
-|Senior Tester|Matei Oltean|Will test: Add funds, Withdraw funds|
-|Tester|Adelina Pop|Will test: Semd money|
+| Senior Tester | Matei Oltean | Will test: Add funds, Withdraw funds |
+| Tester | Adelina Pop| Will test: Send money |
 
 #### Entry criteria:
 
