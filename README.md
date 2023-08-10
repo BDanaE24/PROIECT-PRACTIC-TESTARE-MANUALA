@@ -64,7 +64,6 @@ Application under test: https://demo.guru99.com/V4/index.php
 Application documentation:
 https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
-
 ## 1.2 Functionalities in scope
 
 Here we should write all the functionalities that are included in the release.
@@ -72,7 +71,6 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 - The features in scope for testing: Add funds, Withdraw funds, Send money
 - Testing types used: functional testing, GUI testing
-
 
 ## 1.3 Functionalities tests out of scope
 
@@ -192,13 +190,11 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 ## 3.9 Schedule
 
-
 **- we have 10 days of testing**
 
 **- we have 30 functional and GUI tests**
 
 **- in order to finish the regression run we would need to run an ~ of 3 tests/day**
-
 
  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
