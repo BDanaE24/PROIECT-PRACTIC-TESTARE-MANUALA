@@ -87,8 +87,8 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 
 |Role|Name|Tasks/Work|
 |---|---|---|
-|Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
-|Senior Tester|Matei Oltean|will test: Add funds, Withdraw funds|
+|Senior Tester|Matei Oltean|Will test: Add funds, Withdraw funds|
+|Tester|Adelina Pop|Will test: Semd money|
 
 #### Entry criteria:
 
@@ -173,7 +173,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 
 ## 3.5 Traceability matrix
 
-**- Link to traceability matrix** vom incarca pe github un screenshot din jira
+**- Link to traceability matrix** vom incarca pe github un screenshot din Jira
 
 ## 3.6 Test case results
 
