@@ -96,7 +96,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 -	roles needed for the project are allocated
 -	testing environment is up and running
 -	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testin
-  
+
 #### Exit criteria:
 
 -	all test cases have been executed 
