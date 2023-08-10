@@ -7,50 +7,50 @@
 | 05.05.2023 | Test Plan for version 0.55 | Matei Oltean ||
 | 07.07.2023 | Test Plan for version 1.0 | Adelina Pop| Added more details for Test Implementation |
 
-# 1.	Introduction
-           
-           1.1	Project objective
-    
-           1.2	Functionalities in scope
-    
-           1.3	Functionalities and tests out of scope
-    
-# 2.	Test process
+# 1. Introduction
 
-2.1	Test planning
+           1.1 Project objective
 
-2.2	Test analysis
+           1.2 Functionalities in scope
 
-2.3	Test design
+           1.3 Functionalities and tests out of scope
 
-2.4	Test implementation
+# 2. Test process
 
-2.5	Test execution
+           2.1 Test planning
 
-2.6	Test closure
+           2.2 Test analysis
 
-2.7	Test monitoring and control
+           2.3 Test design
 
-# 3.	Test deliverables
+           2.4 Test implementation
 
-3.1	Test plan
+           2.5 Test execution
 
-3.2	Test conditions
+           2.6 Test closure
 
-3.3	Test cases
+           2.7 Test monitoring and control
 
-3.4	Daily test summary reports
+# 3. Test deliverables
 
-3.5	Traceability matrix
+           3.1 Test plan
 
-3.6	Test case results
+           3.2 Test conditions
 
-3.7	Bugs report
+           3.3 Test cases
 
-3.8	Test completion report
+           3.4 Daily test summary reports
+
+           3.5 Traceability matrix
+
+           3.6 Test case results
+
+           3.7 Bugs report
+
+           3.8 Test completion report
 
 
-1.	Introduction
+# 1. Introduction
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
