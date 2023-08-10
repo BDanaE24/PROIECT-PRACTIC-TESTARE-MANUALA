@@ -342,7 +342,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 
 - we will use test environment
 - testing using new accounts and older account is necessary
-- The following test conditions could be found here:* vom adauga link catre document cu test cases create si incarcate pe Github. Test cases vor fi exportate din Jira [Test conditions]( https://github.com/AlexandraPetis/Proiect-testare-manuala/blob/main/Sedinta%201_Introducere%20in%20programare.pdf )
+- The following test conditions could be found here:* vom adauga link catre document cu test cases create si incarcate pe Github. Test cases vor fi exportate din Jira [Test conditions](https://duckduckgo.com)
 
 ## 3.3 Test condition
 
