@@ -95,7 +95,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 -	functional business specifications are defined
 -	roles needed for the project are allocated
 -	testing environment is up and running
--	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testin
+-	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 
 #### Exit criteria:
 
