@@ -54,15 +54,18 @@
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
-1.1 Project Objective
+## 1.1 Project Objective
 
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. 
+
 Application under test: https://demo.guru99.com/V4/index.php 
-Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit 
+
+Application documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit 
 Functionalities and tests out of scope
 
-1.2 Functionalities in scope
+## 1.2 Functionalities in scope
+
 Here we should write all the functionalities that are included in the release.
 e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 
@@ -85,13 +88,13 @@ Roles and responsibilities
 Senior Tester	Matei Oltean	will test: Add funds, Withdraw funds
 Tester	Adelina Pop	will test: Sends money
 
-Entry criteria:
+### Entry criteria:
 -	functional business specifications are defined
 -	roles needed for the project are allocated
 -	testing environment is up and running
 -	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
 
-Exit criteria:
+### Exit criteria:
            - all test cases have been executed 
 
            - 90% of tests are passed
@@ -99,7 +102,7 @@ Exit criteria:
            - exploratory testing performed on the features: Add funds, Withdraw funds, Send money
            - update tests are 100% passed (update tests will not generate other new issues that impact the application)
 
-Risks:
+### Risks:
 -	user data (banking related data, funds, Personal Details, etc) might be impacted with update tests
 -	stability risks (crashes, disconnects, etc)
 -	
