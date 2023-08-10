@@ -101,8 +101,11 @@ Tester	Adelina Pop	will test: Sends money
            - all test cases have been executed 
 
            - 90% of tests are passed
+           
            - no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
+
            - exploratory testing performed on the features: Add funds, Withdraw funds, Send money
+           
            - update tests are 100% passed (update tests will not generate other new issues that impact the application)
 
 ### Risks:
