@@ -67,7 +67,7 @@ https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/
 ## 1.2 Functionalities in scope
 
 Here we should write all the functionalities that are included in the release.
-e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 
 - The features in scope for testing: Add funds, Withdraw funds, Send money
 - Testing types used: functional testing, GUI testing
