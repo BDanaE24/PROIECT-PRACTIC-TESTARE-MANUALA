@@ -21,11 +21,17 @@
 # 2. Test Process
 
 2.1 Test Planning
+
 2.2 Test Analysis
+
 2.3 Test design
+
 2.4 Test implementation
+
 2.5 Test execution
+
 2.6 Test closure
+
 2.7 Test monitoring and control
 
 # 3. Test deliverables
@@ -38,16 +44,13 @@
 
 3.4. Daily Test Summary Reports
 
+3.5 Traceability Matrix
 
+3.6 Test Cases Result
 
+3.7 Bugs Report
 
-        3.5 traceability matrix
-
-        3.6 Test cases result
-
-        3.7 Bugs report
-
-        3.8 Test completion report
+3.8 Test Completion Report
 
 # 1. Introduction
 
