@@ -14,6 +14,7 @@
         <li>Functionalities in scope</li>
         <li>Functionalities and tests out of scope</li>
 </ol>
+
 # 2. Test Process
 
         2.1 Test Planning
