@@ -7,39 +7,39 @@
 | 05.05.2023 | Test Plan for version 0.55 | Matei Oltean ||
 | 07.07.2023 | Test plan for version 1.0 | Adelina Pop | Added more detailsfor Test Implementation |
 
-# 1. Introduction 
-
+<h1> Introduction </h1> 
 <ol>
-        <li>Project objective</li>
-        <li>Functionalities in scope</li>
-        <li>Functionalities and tests out of scope</li>
+        <li>      
+                <ol>
+                        <li>Project objective</li>
+                        <li>Functionalities in scope</li>
+                        <li>Functionalities and tests out of scope</li>
+                </ol>
+        </li>
 </ol>
 
 # 2. Test Process
 
-        2.1 Test Planning
-
-        2.2 Test Analysis
-
-        2.3 Test design
-
-        2.4 Test implementation
-
-        2.5 Test execution
-
-        2.6 Test closure
-
-        2.7 Test monitoring and control
+2.1 Test Planning
+2.2 Test Analysis
+2.3 Test design
+2.4 Test implementation
+2.5 Test execution
+2.6 Test closure
+2.7 Test monitoring and control
 
 # 3. Test deliverables
 
-        3.1 Test plan
+3.1. Test Plan
 
-        3.2 Test condition
+3.2. Test Condition
 
-        3.3 Test cases
+3.3. Test Cases
 
-        3.4 Daily test summary reports
+3.4. Daily Test Summary Reports
+
+
+
 
         3.5 traceability matrix
 
@@ -61,8 +61,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://demo.guru99.com/V4/index.php
 
-Application documentation:
-https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
+Application documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 ## 1.2 Functionalities in scope
 
