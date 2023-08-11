@@ -8,12 +8,9 @@
 | 07.07.2023 | Test plan for version 1.0 | Adelina Pop | Added more detailsfor Test Implementation |
 
 # 1. Introduction
-
-        1.1 Project objective
-
-        1.2 Functionalities in scope
-
-        1.3 Functionalities and tests out of scope
+1.1 Project objective
+1.2 Functionalities in scope
+1.3 Functionalities and tests out of scope
 
 # 2. Test Process
 
