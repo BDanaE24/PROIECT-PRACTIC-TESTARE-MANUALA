@@ -10,7 +10,7 @@
 # 1. Introduction 
 
 <ol>
-        <li>Project objective</li>li
+        <li>Project objective</li>
         <li>Functionalities in scope</li>
         <li>Functionalities and tests out of scope</li>
 </ol>
