@@ -160,7 +160,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 
 - we will use test environment
 - testing using new accounts and older account is necessary
-- The following test conditions could be found here:* vom adauga link catre document cu test cases create si incarcate pe Github. Test cases vor fi exportate din Jira [Test conditions](https://[duckduckgo.com](https://github.com/BDanaE24/PROIECT-PRACTIC-TESTARE-MANUALA/commit/0702f5170c1483fb1b8459627a775b33e3b92603)
+- The following test conditions could be found here:* vom adauga link catre document cu test cases create si incarcate pe Github. Test cases vor fi exportate din Jira [Test conditions](https://github.com/BDanaE24/PROIECT-PRACTIC-TESTARE-MANUALA/commit/0702f5170c1483fb1b8459627a775b33e3b92603))
 
 ## 3.3 Test condition
 
