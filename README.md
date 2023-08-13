@@ -14,14 +14,7 @@
 1.2 Functionalities in scope
 
 1.3 Functionalities and tests out of scope
-                <ol>
-                        <li>Project objective</li>
-                        <li>Functionalities in scope</li>
-                        <li>Functionalities and tests out of scope</li>
-                </ol>
-        </li>
-</ol>
-
+  
 # 2. Test Process
 
 2.1 Test Planning
