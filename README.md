@@ -169,6 +169,7 @@ e.g.(example given) Add funds, Withdraw funds, Send money, Monthly funds report,
 ## 3.4 Dayly/Weekly/Bi-weekly test summary report
 
 **- link to daily test summary report (number of tests ran today, % of them failed, passed, re-tested, etc)** vom adauga link catre screeshot cu test summary report incarcat pe github SUA incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.
+![TEO](https://github.com/BDanaE24/PROIECT-PRACTIC-TESTARE-MANUALA/commit/0702f5170c1483fb1b8459627a775b33e3b92603)
 
 ## 3.5 Traceability matrix
 
